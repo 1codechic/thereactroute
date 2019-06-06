@@ -1,5 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This is a sample project created to show React Routes using React Router. React Router allows us to create client side routing in our react projects.
+
+We can create dynamic routes and fetch api calls based on route parameters.
+
+The API used for this sample project is Fortnite Free API. 
+
 ## Available Scripts
 
 In the project directory, you can run:
